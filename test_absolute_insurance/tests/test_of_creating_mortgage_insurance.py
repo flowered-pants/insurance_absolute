@@ -5,3 +5,4 @@ mortgage_insurance_page = MortgageInsurancePage()
 
 def test_of_making_mortgage_insurance_application(browser_managment):
     mortgage_insurance_page.open_page()
+
